@@ -1,0 +1,5 @@
+/home/plinio/STM32CubeIDE/workspace_1.17.0/L476_RTOS_Cli/CMakeFiles/L476_RTOS_Cli.dir
+/home/plinio/STM32CubeIDE/workspace_1.17.0/L476_RTOS_Cli/CMakeFiles/edit_cache.dir
+/home/plinio/STM32CubeIDE/workspace_1.17.0/L476_RTOS_Cli/CMakeFiles/rebuild_cache.dir
+/home/plinio/STM32CubeIDE/workspace_1.17.0/L476_RTOS_Cli/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/plinio/STM32CubeIDE/workspace_1.17.0/L476_RTOS_Cli/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
